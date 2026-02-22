@@ -14,4 +14,4 @@ services:
 networks:
   portability_net:
     external: true
-    name: portability_dev
+    name: portability_prod
